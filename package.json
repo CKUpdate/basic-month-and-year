@@ -1,0 +1,13 @@
+{
+  "name": "basic-month-and-year",
+  "repository": "git@github.com:CKUpdate/basic-month-and-year.git",
+  "version": "0.0.1",
+  "dependencies": {
+    "basic-element": "CKUpdate/basic-element#master",
+    "basic-month-name": "CKUpdate/basic-month-name#master"
+  },
+  "keywords": [
+    "web-components",
+    "flatten"
+  ]
+}
